@@ -68,35 +68,35 @@ const Products = () => {
             transition={{ ease: [0.76, 0, 0.24, 1], duration: 0.5 }}
             className=" w-full h-full  "
           >
-            <video autoPlay muted src="../../vids/vidSix.webm"></video>
+            <video autoPlay muted src="/vids/vidSix.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             transition={{ ease: [0.76, 0, 0.24, 1], duration: 0.5 }}
             className=" w-full h-full  "
           >
-            <video autoPlay muted src="../../vids/vidThird.webm"></video>
+            <video autoPlay muted src="/vids/vidThird.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             transition={{ ease: [0.76, 0, 0.24, 1], duration: 0.5 }}
             className=" w-full h-full  "
           >
-            <video autoPlay muted src="../../vids/vidFour.webm"></video>
+            <video autoPlay muted src="/vids/vidFour.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             transition={{ ease: [0.76, 0, 0.24, 1], duration: 0.5 }}
             className=" w-full h-full  "
           >
-            <video autoPlay muted src="../../vids/vidSecond.webm"></video>
+            <video autoPlay muted src="/vids/vidSecond.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             transition={{ ease: [0.76, 0, 0.24, 1], duration: 0.5 }}
             className=" w-full h-full  "
           >
-            <video autoPlay muted src="../../vids/vidFirst.webm"></video>
+            <video autoPlay muted src="/vids/vidFirst.webm"></video>
           </motion.div>
         </motion.div>
       </div>
